@@ -44,7 +44,8 @@
 
 ### 🤝 Let's Connect!
 <p align="left">
-<a href="https://linkedin.com/in/maham-nadeem" target="blank">
+<p align="left">
+<a href="https://linkedin.com/in/maham-nadeem-b842a7325" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="45" width="45" />
 </a>
 <a href="https://instagram.com/maham._.nadeem" target="blank">
