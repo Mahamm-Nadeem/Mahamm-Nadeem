@@ -18,19 +18,25 @@
 
 <table>
   <tr>
-    <td width="55%" valign="top">
+    <td width="60%" valign="top">
       <br />
       <ul>
         <li>🌱 <b>Currently:</b> Learning <b>Front-End Development (HTML, CSS, JS)</b></li>
+        <br />
         <li>🐍 <b>Strengthening:</b> Fundamentals in <b>Python & Java</b></li>
-        <li>👨‍💻 <b>My Work:</b> All my projects are at <a href="https://github.com/Mahamm-Nadeem">github.com/Mahamm-Nadeem</a></li>
-        <li>💬 <b>Ask me:</b> Basic Python, Java, problem-solving, and UI concepts</li>
+        <br />
+        <li>👨‍💻 <b>My Work:</b> Projects at <a href="https://github.com/Mahamm-Nadeem">github.com/Mahamm-Nadeem</a></li>
+        <br />
+        <li>💬 <b>Ask me:</b> Basic Python, Java, and UI concepts</li>
+        <br />
         <li>📫 <b>Reach me:</b> <a href="mailto:mahamnadeemm21@gmail.com">mahamnadeemm21@gmail.com</a></li>
-        <li>🧠 <b>Background:</b> CS undergraduate building skills through practical apps</li>
-        <li>⚡ <b>Fun fact:</b> I break code more than I write it — but that’s how I learn! 😄</li>
+        <br />
+        <li>🧠 <b>Background:</b> CS undergraduate building practical apps</li>
+        <br />
+        <li>⚡ <b>Fun fact:</b> I break code more than I write it! 😄</li>
       </ul>
     </td>
-    <td width="45%" align="center" valign="middle">
+    <td width="40%" align="center" valign="middle">
       <img src="readme_gif.gif" width="100%" style="border-radius: 15px; border: 2px solid #FF9A9E;" />
     </td>
   </tr>
